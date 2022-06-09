@@ -1,6 +1,3 @@
-<img width="auto" src="[https://github.com/RafaelOkabe/RafaelOkabe/blob/master/banner.jpg]">
-
-
 # Rafael Yoshio Okabe
 
 ## Hi There 👋
