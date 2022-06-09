@@ -1,4 +1,4 @@
-<img width="auto" src="[https://github.com/RafaelOkabe/RafaelOkabe/blob/master/banner.png](https://github.com/RafaelOkabe/RafaelOkabe/blob/master/banner.jpg)">
+<img width="auto" src="[https://github.com/RafaelOkabe/RafaelOkabe/blob/master/banner.jpg]">
 
 
 # Rafael Yoshio Okabe
